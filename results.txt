@@ -1,0 +1,5 @@
+The time for bubble sort is(INTS): 0.36909875
+The time for selection sort is (INTS): 0.06710886
+The time for bubble sort is(STRINGS): 0.2013266
+The time for selection sort (STRINGS): 0.13421772
+The time for Collection sort: 3.3554432E7    (Its very fast)
